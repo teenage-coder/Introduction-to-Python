@@ -4,7 +4,7 @@ This is the Repository of our Introduction to Python Course specially designed f
 
 This reposiroty includes all the codes written in this Introduction to Python Course by Teenage Coder.
 
-Class 1 - Python IDLE Setup
+Class 1 - Python IDLE Setup \n
 Class 2 - Arithmetic Operations with Python
 Class 3 - Formulas with Python
 Class 4 - If-Else with Python
